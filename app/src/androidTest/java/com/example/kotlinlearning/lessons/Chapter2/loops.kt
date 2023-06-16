@@ -1,4 +1,4 @@
-package com.example.kotlinlearning.lessons.day2
+package com.example.kotlinlearning.lessons.Chapter2
 
 fun main() {
 

@@ -1,4 +1,4 @@
-package com.example.kotlinlearning.lessons.day1
+package com.example.kotlinlearning.lessons.Chapter1
 
 fun main() {
     val greetings = "Hello world"
